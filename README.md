@@ -1,2 +1,2 @@
-# FishEasyServerChat鱼之跃鱼
+# FishEasyServerChat鱼之跃语
 Minecraft简易跨服聊天插件
